@@ -1,4 +1,4 @@
-# diagnosticoEnfermedadMachinLearning
+# diagnostico Enfermedad Machine Learning.
 Proyecto de Machine Learning , realizado en java y prolog, mediante la Tecnica de Arbol de Desicion
 Existen dos metodos de busqueda del archivo pl. 
 -el primero es predeterminado
